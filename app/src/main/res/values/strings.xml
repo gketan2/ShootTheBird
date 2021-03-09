@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shoot The Bird</string>
+    <string name="play">Play</string>
+    <string name="background">background</string>
+</resources>
